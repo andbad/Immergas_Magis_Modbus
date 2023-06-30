@@ -32,14 +32,14 @@ Il formato dei registri è Decimale.
 105 TW_0 Temp.Acqua IN SP (°C)
 106 TW_0 Temp.Acqua OT SP (°C)
 108 T4 Temp. Aria Esterna (°C)
-109 temp scarico compr. 
-110 temp asp compressora
-113-114 temp refrigerante out/in
-117 pressione compressore
-120 tensione alimentazione V
-123 tem. At. Tot. Comp ora
-130 72 pompa di circolazione, 8264 pompa di calore, 0 spento
-136 temp modulo tf
-139 flusso acqua m3/h
-145 consumo di energia kWh
-/145 consumo di energia kWh/145 consumo di energia kWh
+109 Tp Temp. Scarico compr. (°C)
+110 Temp. Aspiraz. compr. (°C)
+113 T2 Temp. Refr. Uscita SP (°C)
+114 T2 Temp. Refr. In SP (°C)
+117 P1 Pressione compr. (kPa)
+120 Rensione alimentazione (V)
+123 Tem. At. Tot. Comp (Hrs)
+130 Pompa di circolazione attiva 72, Compressore attivo 8264, in standby 0
+136 TF temp modulo (°C)
+139 Flusso acqua (m3/h)
+145 Consumo di energia (kWh)
