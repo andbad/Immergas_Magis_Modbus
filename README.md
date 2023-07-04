@@ -37,7 +37,7 @@ Il formato dei registri è Decimale.<br>
 113 T2 Temp. Refr. Uscita SP (°C)<br>
 114 T2 Temp. Refr. In SP (°C)<br>
 117 P1 Pressione compr. (kPa)<br>
-120 Rensione alimentazione (V)<br>
+120 Tensione alimentazione (V)<br>
 123 Tem. At. Tot. Comp (Hrs)<br>
 130 Pompa di circolazione attiva 72, Compressore attivo 8264, in standby 0<br>
 136 TF temp modulo (°C)<br>
