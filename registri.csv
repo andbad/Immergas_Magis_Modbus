@@ -117,7 +117,7 @@ registro,
 116,
 117,P1 Pressione compr. (kPa)
 118,
-119,Corrente Compress.
+119,Corrente Compress. (A)
 120,Tensione alimentazione (V)
 121,
 122,
@@ -135,7 +135,7 @@ registro,
 134,Alim. Generatore CC.(A)
 135,
 136,TF temp modulo (°C)
-137,"255 aria, 18 H2O"
+137,"255 modalità temperatura aria, 18 modalità temperatura H2O"
 138,
 139,Flusso acqua (m3/h)
 140,
